@@ -1,3 +1,3 @@
 # Hibernate Util
 
-**Базовый пример приложения Hibernate Util**
+**Базовый пример использования Hibernate Util**
